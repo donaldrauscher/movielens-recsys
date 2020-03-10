@@ -1,0 +1,4 @@
+scikit-learn
+pandas
+tensorflow<2.0.0
+tensorrec==0.26.2
